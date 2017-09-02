@@ -1,0 +1,36 @@
+body{
+    background: #F4f0e8;
+}
+
+#img_profile{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 25%;
+    border-radius: 30%;
+    border: 3px solid #289a8e;
+}
+
+.card{
+    text-align: center;
+    background: white;
+    padding: 20px;
+
+    margin-top: 2%;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-radius: 10px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0 0.2);
+}
+
+h1 {
+    font-family: "Open sans", Arial, Helvetica, sans-serif;
+    color:#4d4d4d;
+  }
+  h3 {
+    font-family:'Helvetica', sans-serif;
+    color: #a9a9a9;
+  }
+  h4 {
+    font-family:'Helvetica', sans-serif;
+    color: #ead102;
+  
